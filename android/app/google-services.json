@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "290723360409",
+    "firebase_url": "https://in-app-call-app-default-rtdb.firebaseio.com",
+    "project_id": "in-app-call-app",
+    "storage_bucket": "in-app-call-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290723360409:android:925ba68719fcc20d42d208",
+        "android_client_info": {
+          "package_name": "com.krest.in_app_call_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290723360409-dj2kh5u1pk57ir3nbano6p0h2tgi21fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoF3zmbku5npjRNLTPLPc7lF2CmcqPjBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290723360409-dj2kh5u1pk57ir3nbano6p0h2tgi21fn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
